@@ -1,0 +1,95 @@
+{
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+    "info": {
+        "id": "573083",
+        "name": "Domino's Pizza",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/8/8/7af9fa12-6632-4008-929d-99d60b1d200c_573083.JPG",
+        "locality": "UBBER MEWS",
+        "areaName": "Kharar Road",
+        "costForTwo": "₹400 for two",
+        "cuisines": [
+            "Pizzas",
+            "Italian",
+            "Pastas",
+            "Desserts"
+        ],
+        "avgRating": 4.4,
+        "parentId": "2456",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "2.4K+",
+        "sla": {
+            "deliveryTime": 25,
+            "lastMileTravel": 1.9,
+            "serviceability": "SERVICEABLE",
+            "slaString": "20-25 mins",
+            "lastMileTravelString": "1.9 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2025-10-06 23:59:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "Rxawards/_CATEGORY-Pizza.png",
+                    "description": "Delivery!"
+                }
+            ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "description": "Delivery!",
+                                "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                            }
+                        }
+                    ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "ITEMS",
+            "subHeader": "AT ₹59"
+        },
+        "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {}
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "--"
+            }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+        "context": "seo-data-3369ecbc-3d2a-40d7-abf0-7feecff4657d"
+    },
+    "cta": {
+        "link": "https://www.swiggy.com/city/chandigarh/dominos-pizza-ubber-mews-kharar-road-rest573083",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+}
